@@ -98,4 +98,5 @@ Power BI
 This analysis provides a comprehensive understanding of pizza sales performance. The cleaned and structured data allows for better decision-making in future sales strategies, ensuring customer satisfaction and maximizing revenue.
 
 ## Resources
+https://www.kaggle.com/code/melikedilekci/eda-pizza-restaurant-sales/notebook
 
