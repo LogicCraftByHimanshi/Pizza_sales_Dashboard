@@ -1,3 +1,7 @@
+
+<img src="https://github.com/LogicCraftByHimanshi/Pizza_sales_Dashboard/blob/main/pizza_sales.png" alt="My Image" width="500"/>
+
+
 # Pizza_sales_Dashboard
 ## Project Overview
 
